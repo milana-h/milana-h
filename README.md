@@ -76,3 +76,13 @@
 
 ---
 ### 🐱‍🐉 Testing Artefacts
+<ul>
+  <li><a href="https://github.com/milana-h/web">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/milana-h/api">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/osukhorukova/mobile_testing">Mobile App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/milana-h/database">MySQL and MongoDB</a> – SQL and NoSQL queries and DB validation scripts</li>
+  <li><a href="https://github.com/milana-h/docs">Test documentation</a> – checklist and test cases</li>
+  <li><a href="https://github.com/milana-h/theory>Testing Theory</a> – methods, types, and levels</li>
+  <li><a href="https://github.com/milana-h/design">Test Design Techniques</a> – from Pairwise to Decision Table</li>
+  <li><a href="https://github.com/milana-h/git_bash">Bash</a> – bash commands</li>
+</ul>
