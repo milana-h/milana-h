@@ -77,12 +77,12 @@
 ---
 ### 🐱‍🐉 Тестовые Артефакты
 <ul>
-  <li><a href="https://github.com/milana-h/web">Тестирование Web-приложений</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/milana-h/web">Тестирование Web-приложений</a> – Исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/milana-h/api">Тестирование API</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Тестирование мобильных приложений</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/milana-h/database">MySQL и MongoDB</a> – SQL and NoSQL queries and DB validation scripts</li>
-  <li><a href="https://github.com/milana-h/docs">Тестовая документация</a> – checklist and test cases</li>
-  <li><a href="https://github.com/milana-h/theory>Теория Тестирования</a> – methods, types, and levels</li>
-  <li><a href="https://github.com/milana-h/design">Техники Тест-дизайна</a> – from Pairwise to Decision Table</li>
-  <li><a href="https://github.com/milana-h/git_bash">Bash</a> – bash commands</li>
+  <li><a href="https://github.com/osukhorukova/mobile_testing">Тестирование мобильных приложений</a> – Ручное тестирование и баг-репорты</li>
+  <li><a href="https://github.com/milana-h/database">MySQL и MongoDB</a> – SQL and NoSQL запросы and сценарии проверки DB</li>
+  <li><a href="https://github.com/milana-h/docs">Тестовая документация</a> – Чек-личты и тест-кейсы</li>
+  <li><a href="https://github.com/milana-h/theory>Теория Тестирования</a> – Типы, методы и уровни</li>
+  <li><a href="https://github.com/milana-h/design">Техники Тест-дизайна</a> – От попарного до таблицы принятия решений</li>
+  <li><a href="https://github.com/milana-h/git_bash">Bash</a> – Bash команды</li>
 </ul>
