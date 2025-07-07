@@ -75,7 +75,7 @@
 </div>
 
 ---
-### 🐱‍🐉 Testing Artefacts
+### 🐱‍🐉 Тестовые Артефакты
 <ul>
   <li><a href="https://github.com/milana-h/web">Webshop Testing</a> – exploratory and functional testing</li>
   <li><a href="https://github.com/milana-h/api">API Testing</a> – REST and SOAP via Postman</li>
